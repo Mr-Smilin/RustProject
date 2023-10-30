@@ -1,0 +1,2 @@
+# RustProject
+Rust練習
